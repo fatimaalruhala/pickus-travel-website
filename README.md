@@ -70,5 +70,5 @@ All prices, hotels and bookings are sample data created for demonstration. No re
 
 ## Author
 
-**[Your Name]**
+**FATIMA AL RUHALA**
 GitHub: [fatimaalruhala](https://github.com/fatimaalruhala)
